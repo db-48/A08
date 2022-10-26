@@ -8,6 +8,9 @@ body {
 header img {
 	float: left;
 }
+.shadow{
+	text-shadow:2px 2px 2px #800000;
+}
 header h2{
 	color: #800000;
 	font-size:170%;
@@ -37,8 +40,6 @@ main a:hover{
 	font-style:italic;
 
 }
-
-
 /* the styles for the footer */
 footer p{
 	text-align:center;
