@@ -33,5 +33,14 @@ main h2 {
 main h3 {
 	font-size: 105%;
 }
+main a:hover{
+	font-style:italic;
+
+}
+
 
 /* the styles for the footer */
+footer p{
+	text-align:center;
+
+}
