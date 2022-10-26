@@ -8,7 +8,11 @@ body {
 header img {
 	float: left;
 }
+header h2{
+	color: #800000;
+	font-size:170%;
 
+}
 /* the styles for the main content */
 main {
 	clear: left;
